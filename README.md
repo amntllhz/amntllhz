@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, is Aldi Here </h2>
+<h2 align="left">👋 Hi, is Aldi Here </h2>
 
 ###
 
